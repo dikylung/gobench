@@ -68,8 +68,8 @@ Usage
 2. download gobench
     
     ```
-    GOPATH=/tmp/ go get github.com/valyala/fasthttp
-    GOPATH=/tmp/ go get github.com/cmpxchg16/gobench
+    GOPATH=~/ go get github.com/valyala/fasthttp
+    GOPATH=~/ go get github.com/cmpxchg16/gobench
     ```
 
 3. run some http server on port 80
